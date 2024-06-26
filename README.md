@@ -1,7 +1,7 @@
 # Hi there, I'm Ju-Hyeong-Lee! 👋❤️
 
 
-![Header Image](https://via.placeholder.com/800x200)
+![불꽃남자 정대만](./images/불꽃남자 정대만.jpg)
 
 ## About Me
 
