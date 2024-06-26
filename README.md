@@ -25,7 +25,7 @@
 
 ## Projects
 
-### [Project Name 1](https://github.com/yourusername/projectname1)
+### [Cafe_Pos](https://github.com/obongbong/CafePos.git)
 
 - **Description:** 프로젝트 1에 대한 간단한 설명.
 - **Tech Stack:** 사용된 주요 기술들 (예: React, Node.js, MongoDB)
