@@ -27,12 +27,12 @@
 
 ### [Cafe_Pos](https://github.com/obongbong/CafePos.git)
 
-- **Description:** 프로젝트 1에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: React, Node.js, MongoDB)
+- **Description:** 카페 포스기 프로그램.
+- **Tech Stack:** 사용된 주요 기술들 (Java)
 - **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
+  - 주요 기능 1: 직원 관리
+  - 주요 기능 2: 메뉴 관리
+  - 주요 기능 3: 결제 및 매출
 
 ### [Project Name 2](https://github.com/yourusername/projectname2)
 
