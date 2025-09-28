@@ -7,6 +7,9 @@
 
 안녕하세요! 저는 이주형입니다. 소프트웨어 개발자이자 열정적인 문제 해결사입니다. 다양한 기술과 도구를 사용하여 혁신적인 솔루션을 만드는 것을 즐깁니다. 제 GitHub 프로필에 오신 것을 환영합니다!
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud5427)](https://solved.ac/wngud5427)​
+출처: https://han-hoon.tistory.com/entry/Git-Hub-깃허브-READMEmd-백준-Solvedac-적용하기 [Hoongrammer:티스토리]
+
 ## Skills
 
 ### Languages
