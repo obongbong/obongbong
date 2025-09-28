@@ -7,8 +7,9 @@
 
 안녕하세요! 저는 이주형입니다. 소프트웨어 개발자이자 열정적인 문제 해결사입니다. 다양한 기술과 도구를 사용하여 혁신적인 솔루션을 만드는 것을 즐깁니다. 제 GitHub 프로필에 오신 것을 환영합니다!
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud5427)](https://solved.ac/wngud5427)​
-![Solved.ac Stats](http://mazandi.herokuapp.com/api?handle=wngud5427&theme=warm)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud5427)](https://solved.ac/wngud5427)
+​
+![Solved.ac Stats](http://mazandi.herokuapp.com/api?handle=wngud5427&theme=cold)
 
 ## Skills
 
