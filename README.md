@@ -10,7 +10,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud5427)](https://solved.ac/wngud5427)
 ​
 
-![Solved.ac Stats](http://mazandi.herokuapp.com/api?handle=wngud5427&theme=cold)
+![Solved.ac Stats](http://mazandi.herokuapp.com/api?handle=wngud5427&theme=warm)
 
 ## Skills
 
