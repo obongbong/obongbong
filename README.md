@@ -12,7 +12,7 @@
 
 ![Solved.ac Stats](http://mazandi.herokuapp.com/api?handle=wngud5427&theme=warm)
 
-## Skills
+## 📚 Technology Stack 📚
 
 ### Languages
 
