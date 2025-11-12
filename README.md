@@ -49,7 +49,7 @@
   - 주요 기능 2: 메뉴 관리
   - 주요 기능 3: 결제 및 매출
 
-### 저시력자를 위한 AI 기반 쇼핑 지원 음성 챗봇](https://github.com/obongbong/ai_shopping_chatbot)
+### [저시력자를 위한 AI 기반 쇼핑 지원 음성 챗봇](https://github.com/obongbong/ai_shopping_chatbot)
 
 - **Description:** 시각장애인(저시력자)이 온라인 쇼핑 시 겪는 복잡한 UI와 정보 과다 문제를 해결하기 위한 AI 기반 음성 챗봇입니다. (1년간 진행한 캡스톤 디자인 프로젝트)
 - **Tech Stack:** Python, Rasa (NLU, Core), ChatGPT (GPT-3.5/4), Flask (API Server), STT/TTS (음성 인식/합성 API)
